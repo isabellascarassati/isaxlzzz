@@ -1,7 +1,18 @@
-## Oii, eu sou a bella :)
+<h1 align="left">Oii, eu sou a bella!</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=isaxlzzz&color=yellow" alt="Profile views" /> </p>
+
+- 📚  I'm a software development student at ETEC Fernando Prestes.
+
+- 💻 starting to study C# & Python.
+
+- 🎵 I can't live without music! 
+
+##
+
 <div align="center">
   <a href="https://github.com/isaxlzzz">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=isaxlzzz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=isaxlzzz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaxlzzz&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="BS" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
