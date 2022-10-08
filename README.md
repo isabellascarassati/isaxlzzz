@@ -5,7 +5,6 @@
 
 - 💻 Starting to study C#, Python & HTML.
 
-- 🎵 I can't live without music! 
 
 ##
 
