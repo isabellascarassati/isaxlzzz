@@ -3,7 +3,7 @@
 
 - 📚  I'm a software development student at ETEC Fernando Prestes.
 
-- 💻 Starting to study C#, Python & HTML.
+- 💻 Starting to study C#, Python & JS.
 
 
 ##
