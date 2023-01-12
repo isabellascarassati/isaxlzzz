@@ -11,7 +11,6 @@
 <div align="center">
   <a href="https://github.com/isaxlzzz">
   <img width="44%" src="https://github-readme-stats.vercel.app/api?username=isaxlzzz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaxlzzz&show_icons=true&theme=dark&layout=compact" />
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="BS" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
